@@ -13,5 +13,10 @@ export class RecipeListComponent {
       'test desc',
       'https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg'
     ),
+    new Recipe(
+      ' a test recipe',
+      'test desc',
+      'https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg'
+    ),
   ];
 }
